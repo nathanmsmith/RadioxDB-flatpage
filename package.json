@@ -2,5 +2,16 @@
   "name": "gradissue-2017",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/daily-bruin/gradissue-2017.git"
+  "repository": "https://github.com/daily-bruin/gradissue-2017.git",
+  "scripts": {
+    "css": "node-sass sass/style.scss -o build/css"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^7.1.1",
+    "browser-sync": "^2.18.12",
+    "eslint": "^3.19.0",
+    "node-sass": "^4.5.3",
+    "stylelint": "^7.10.1"
+  }
 }
