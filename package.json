@@ -7,7 +7,7 @@
     "copy-html": "cpx source/html/* build/ --watch",
     "compile-js:dev": "babel --watch source/js -d build/js --source-maps",
     "autoprefix": "postcss --use autoprefixer -r build/css/*",
-    "compile-sass:dev": "node-sass --watch source/sass/*.scss -o build/css && npm run autoprefix",
+    "compile-sass:dev": "node-sass --watch source/sass/*.scss -o build/css",
     "browser-sync": "browser-sync start --server build/ --files build/",
     "dev": "npm run copy-html & npm run compile-js:dev & npm run compile-sass:dev & npm run browser-sync"
   },
