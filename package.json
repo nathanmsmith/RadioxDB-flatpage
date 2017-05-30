@@ -4,12 +4,12 @@
   "main": "index.js",
   "repository": "https://github.com/daily-bruin/gradissue-2017.git",
   "scripts": {
-    "copy-html": "cpx source/html/* build/ --watch",
-    "compile-js:dev": "babel --watch source/js -d build/js --source-maps",
-    "autoprefix": "postcss --use autoprefixer -r build/css/*",
-    "compile-sass:dev": "node-sass --watch source/sass/*.scss -o build/css",
-    "browser-sync": "browser-sync start --server build/ --files build/",
-    "dev": "npm run copy-html & npm run compile-js:dev & npm run compile-sass:dev & npm run browser-sync"
+    "copy-html": "cp source/html/* build/",
+    "compile-js:dev": "babel source/js -d build/js --source-maps",
+    "autoprefix": "postcss --use autoprefixer -r build/css/*.css",
+    "compile-sass:dev": "node-sass source/sass/*.scss -o build/css && postcss --use autoprefixer -r build/css/*.css",
+    "browser-sync": "browser-sync start --server build/ --files build/ --reload-delay 2000",
+    "dev": "watch 'npm run copy-html' source/html/ & watch 'npm run compile-js:dev' source/js/ & watch 'npm run compile-sass:dev' source/sass/ & npm run browser-sync"
   },
   "dependencies": {
     "leaflet": "^1.0.3",
@@ -28,6 +28,7 @@
     "htmlhint": "^0.9.13",
     "node-sass": "^4.5.3",
     "stylelint": "^7.10.1",
-    "stylelint-config-standard": "^16.0.0"
+    "stylelint-config-standard": "^16.0.0",
+    "watch": "^1.0.2"
   }
 }
