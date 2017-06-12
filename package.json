@@ -10,7 +10,7 @@
     "autoprefix": "postcss --use autoprefixer -r build/css/*.css",
     "compile-sass:dev": "node-sass source/sass/*.scss -o build/css && postcss --use autoprefixer -r build/css/*.css",
     "browser-sync": "browser-sync start --server build/ --files build/ --reload-delay 2000",
-    "dev": "watch 'npm run compile-nunjucks' source/templates/ & watch 'npm run copy-img' source/img/ & watch 'npm run compile-js:dev' source/js/ & watch 'npm run compile-sass:dev' source/sass/ & npm run browser-sync"
+    "dev": "watch 'npm run compile-nunjucks' source/templates/ source/content/ & watch 'npm run copy-img' source/img/ & watch 'npm run compile-js:dev' source/js/ & watch 'npm run compile-sass:dev' source/sass/ & npm run browser-sync"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.1",

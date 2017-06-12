@@ -1,11 +1,22 @@
 body {
+  font-family: "Titillium Web" !important;
   background-image: url(../img/bg.png); // no-repeat center center fixed;
   background-size: cover;
   background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+h1 {
+  font-family: "Titillium Web" !important;
+}
+
+.reveal {
+  font-family: "Titillium Web" !important;
 }
 
 img {
-  width: 100%;
+  width: 304px;
+  height: 304px;
 }
 
 .row {

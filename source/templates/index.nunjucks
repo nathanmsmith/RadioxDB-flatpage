@@ -23,20 +23,18 @@
   </head>
   <body>
     <div class="row">
-      <div class="medium-12 columns">
+      <div class="medium-12 columns header text-center">
         <h1>Signing Off</h1>
+        <p>Before they graduate, the seniors of UCLA Radio each had one final show. Here's how they ended their DJ careers.</p>
+        <p>See the full schedule of shows on UCLA Radio <a href="https://uclaradio.com/shows">here</a>.</p>
       </div>
     </div>
-
-
-        <p><a data-open="animatedModal10">Click me for a modal</a></p>
 
       {% for shows in showList | batch(3) %}
         {% set outerIndex = loop.index0 * 3 %}
         <div class="row">
           {% for show in shows %}
             <div class="medium-4 columns">
-
               <a data-open="animatedModal{{ outerIndex + loop.index }}">
                 <img src="{{ show.showImage}}" alt="" >
               </a>
@@ -53,15 +51,11 @@
         </div>
       {% endfor %}
 
+    <p class="text-center">Developed by Nathan Smith.</p>
 
-
-
-<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script src="https://cdn.jsdelivr.net/foundation/6.2.4/foundation.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.2/motion-ui.min.js"></script>
-<script src="js/script.js" charset="utf-8"></script>
-
-
-
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/foundation/6.2.4/foundation.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/motion-ui/1.2.2/motion-ui.min.js"></script>
+    <script src="js/script.js" charset="utf-8"></script>
   </body>
 </html>
