@@ -1,0 +1,157 @@
+{
+  "showList": [
+    {
+      "senior": "Bryan Villalpando",
+      "djName": "DJ SouthLos",
+      "showName": "Los Callejones",
+      "showDescription": "Navigating the world as an unapologetic Latino.",
+      "showImage": "https://uclaradio.com/img/radio.png"
+    },
+    {
+      "senior": "Steven Soltani",
+      "djName": "DJ Stefanopolis",
+      "showName": "Burger Radio U",
+      "showDescription": "Come kick it with the fellas for an hour; DJ Stefanopolis, DJ Fuckboy, and DJ Tiny Hands.",
+      "showImage": "https://uclaradio.com/img/radio.png"
+    },
+    {
+      "senior": "Marcia Brinck",
+      "djName": "DJ Sleepless",
+      "showName": "Road Trippin'",
+      "showDescription": "Join DJ Sleepless Sundays 11pm to 12am as I 'road trip' to a new city and play music from artists native to that city. On UCLARadio.com!",
+      "showImage": "https://uclaradio.com/img/radio.png"
+    },
+    {
+      "senior": "Ramtin Vafamansouri",
+      "djName": "DJ Ram",
+      "showName": "NSFW",
+      "showDescription": "Weekly Live Mix of the Hottest tunes",
+      "showImage": "https://uclaradio.com/img/radio.png"
+    },
+    {
+      "senior": "Layla Moheimani",
+      "djName": "DJ Merna Rex",
+      "showName": "2 Stones + 1 Bird",
+      "showDescription": "Tune in for 3,600 seconds of DJ Merna Rex playing some of her favorite math rock jams with heavy doses of prog, pedal demos, and general weirdness as well.",
+      "showImage": "https://uclaradio.com/uploads/b3fdfd961890331f10eb5e318bd508d2.jpg"
+    },
+    {
+      "senior": "Brianna Klipp",
+      "djName": "Don Kaiper",
+      "showName": "Vertigo",
+      "showDescription": "Dj Don Kaiper & Kaden The Dane integrate a world of hip hop and politics. Revealing the human condition seen through lyrics, they interview emerging festival artists and host the UCLA Debate Team for 'Across the Aisle' where Kaden and Kaiper debate politics. No questions are left untouched and bluntness is welcome. Tears may ensue. Concert tickets will be won. Tune in at 9 pm every Monday. & remember, you're not losing your mind, its just ~Vertigo",
+      "showImage": "https://uclaradio.com/img/radio.png"
+    },
+    {
+      "senior": "Nic Mockovciak",
+      "djName": "spinach boi & dj centrifuge",
+      "showName": "Opposites Attract",
+      "showDescription": "a fun hip radio show in which 2 friends create a chain of songs, each connected to the previous one based on either a similarity or a difference! we even have weekly themes now to spice things up!!",
+      "showImage": "https://uclaradio.com/uploads/0cadce57d386ab5c38d885abd417068d.jpg"
+    },
+    {
+      "senior": "Nina Standing",
+      "djName": "The Hootengrannies",
+      "showName": "Senile Soirée",
+      "showDescription": "Disapproving Doris and Mild Mildred analyze all those new rap lyrics you've been wondering about and play on air bingo for fun prizes! it's knit gran.",
+      "showImage": "https://uclaradio.com/uploads/4de4ea55e016c58d9467544ead899e36.png"
+    },
+    {
+      "senior": "Ryland Towne",
+      "djName": "DJ Ry Ry",
+      "showName": "Lost in the Sauce",
+      "showDescription": "Tune in every Tuesday to hear from some of UCLA's high-flying athletes and outstanding student leaders!",
+      "showImage": "https://uclaradio.com/img/radio.png"
+    },
+    {
+      "senior": "Angela Nguyen",
+      "djName": "Angela Nguyen",
+      "showName": "Evening Delight",
+      "showDescription": "Angela Nguyen shares some of her favorite tunes and talks music news",
+      "showImage": "https://uclaradio.com/img/radio.png"
+    },
+    {
+      "senior": "Daniel Claps",
+      "djName": "DJ Aboney",
+      "showName": "QUIZ NITE",
+      "showDescription": "A trivia quiz show with 2 guests competing against each other every week. DJ Aboney asks fun and good questions about music and other things, but most important is that they are FUN!",
+      "showImage": "https://uclaradio.com/uploads/8c2679e5534eb1bb23987986339e5dd9.jpg"
+    },
+    {
+      "senior": "Sanjay Pawar",
+      "djName": "Sanjay",
+      "showName": "Stay Home",
+      "showDescription": "Join me Tuesday Nights at 10 pm PST and we'll dive into our feelings and odd time signatures",
+      "showImage": "https://uclaradio.com/img/radio.png"
+    },
+    {
+      "senior": "Amy Cummings",
+      "djName": "Amy",
+      "showName": "National Treasure",
+      "showDescription": "New time, new me! Season 2 BABY! UCLA Radio's most topically relevant variety show. Like my page. If you comment I'll shout you out. Hit me up in the chat function down below, our poor Web department worked really hard on it, let me know what's up. Call in: 310-825-9999",
+      "showImage": "https://uclaradio.com/uploads/56ccbace4dc5d074b1d0357c4fd551d4.jpeg"
+    },
+    {
+      "senior": "Brian Suruki",
+      "djName": "Medafiziks",
+      "showName": "Nü Indigo",
+      "showDescription": "Elevating consciousness through music, good vibes and positive messages.",
+      "showImage": "https://uclaradio.com/uploads/6be71cb3e9a1b7298ed3c45e61f00e39.png"
+    },
+    {
+      "senior": "Anne Williams",
+      "djName": "DJ Cherry Bomb",
+      "showName": "Hi Society",
+      "showDescription": "Everything from Marlene Dietrich to Miles Davis. A celebration of Jazz, Blues, and Oldies in the 20th century.",
+      "showImage": "https://uclaradio.com/uploads/33736cc1967f87fb571a365343f3fc24.jpg"
+    },
+    {
+      "senior": "Annie Rimmon",
+      "djName": "Sorta Gourmet",
+      "showName": "Fine Dining",
+      "showDescription": "Each week, DJ Sorta Gourmet discusses recipes and restaurants as well as interviews people in the food world!",
+      "showImage": "https://uclaradio.com/img/radio.png"
+    },
+    {
+      "senior": "Terry Hu",
+      "djName": "special mess",
+      "showName": "G-radio's Anatomy",
+      "showDescription": "Each week, I interview a UCLA Radio DJ using both traditional and fun/hip/non-traditional questions so that the listeners get to know the anatomy of UCLA Radio better :)",
+      "showImage": "https://uclaradio.com/img/radio.png"
+    },
+    {
+      "senior": "Derek Khaothong",
+      "djName": "Derek",
+      "showName": "Selected Ambient Works",
+      "showDescription": "Expand your consciousness & tune in!",
+      "showImage": "https://uclaradio.com/uploads/f5e93f45e753a582011cbc9463d8e8bb.jpg"
+    },
+    {
+      "senior": "Regan Hsu",
+      "djName": "regan",
+      "showName": "Context Switch",
+      "showDescription": "Different tunes every week -- Tune in Fridays at 5pm PT/7pm CT/ 8pm ET [[ 2 June: Nothing in particular - Omar Souleyman, MIA, Aphex Twin, Anthony Naples, Florian Kupfer ]][[27 May: Arca, David Lynch & Twin Peaks, Japanese Indie Music, Techno done right -- Chromatics, Angelo Badalamenti, Shintaro Sakamoto, OGRE YOU ASSHOLE, Via App, Rabit, Tzu Sing, Arca ]][[19 May: Post punk -- Cocteau Twins, My Bloody Valentine, Smashing Pumpkins, Cranberries, Mr. Twin Sister]] [[12 May: Music from Taiwan -- 周杰倫 ，鄧麗君，阿妹]][[ 28 April: Tracks to sooth ur anxious sirens - Floating Points, Aphex Twin, Tim Hecker, Nosaj Thing, Simm ]] [[21 April: Quirky corners of 21st century electronica - Objekt, Laurel Halo, Holly Herndon, Oneohtrix Point Never, Wy Wy Brix ]] [[14 April: Björk, Art + tech ]] [[7 April: Synthpop, Jessy Lanza, 80s Pop in Japan, Mr. Twin Sister, Kelly Lee Owens.]]",
+      "showImage": "https://uclaradio.com/uploads/c552f2383477726162587cf61d2759f2.jpg"
+    },
+    {
+      "senior": "Traver Hill",
+      "djName": "LvrdTrav",
+      "showName": "The Awakening",
+      "showDescription": "Every week I will put you on to new music, and new dope talent coming up in the entertainment industry. Listen and become awoken!",
+      "showImage": "https://uclaradio.com/img/radio.png"
+    },
+    {
+      "senior": "Scott Gee",
+      "djName": "Big Gee-M",
+      "showName": "Bounce House",
+      "showDescription": "Join us for some live-mixing fun! Bounce House will be featuring guest DJs from different genres every week while giving you the music and pop culture news you were looking for. BOUNCE!",
+      "showImage": "https://uclaradio.com/uploads/85b9369af0c2119dfef736a170da2d5a.jpg"
+    },
+    {
+      "senior": "Nicolo Scolieri",
+      "djName": "Nicolo Scolieri",
+      "showName": "This program highlights a sound every week and discusses its political, social, and cultural qualities. The music comes from times as far back as human-nature audio mimesis and as recent as experimental ambient art pop. + some thoughts: about the way sounds make us feel, and evolutionary histories. impacts of external systems on our lives. sound as interface between world and self. vibration as the birth of eternity.",
+      "showImage": "https://uclaradio.com/uploads/d8c9597f67b7b28d944f3270966e3a5b.jpg"
+    }
+  ]
+}

@@ -1,8 +1,16 @@
 body {
-  background-color: blue;
+  background-image: url(../img/bg.png); // no-repeat center center fixed;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 
-// hi
+img {
+  width: 100%;
+}
+
+.row {
+  margin-bottom: 2em;
+}
 
 .example {
   display: flex;
