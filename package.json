@@ -13,7 +13,7 @@
     "dev": "watch 'npm run compile-nunjucks' source/templates/ source/content/ & watch 'npm run copy-img' source/img/ & watch 'npm run compile-js:dev' source/js/ & watch 'npm run compile-sass:dev' source/sass/ & npm run browser-sync"
   },
   "devDependencies": {
-    "autoprefixer": "^7.1.1",
+    "autoprefixer": "^8.0.0",
     "babel-cli": "^6.24.1",
     "babel-preset-env": "^1.5.1",
     "babel-register": "^6.24.1",
